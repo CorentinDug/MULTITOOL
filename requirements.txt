@@ -3,4 +3,4 @@ pywinstyles
 requests
 psutil
 pdfplumber
-QPixmap
+pandas
